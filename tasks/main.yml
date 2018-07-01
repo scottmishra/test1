@@ -1,2 +1,6 @@
 ---
 # tasks file for test1
+
+- name: Test1 Message
+  debug:
+    msg: "Hello Test1"
